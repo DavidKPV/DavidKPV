@@ -1,8 +1,10 @@
 Hi my name is David Martinez ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
-
+  <div id="header" align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tpbmk2ZGEzdzlsdXhxZWJvZm9wZTJkdHNrZ2lpN3R2MDF1bWthYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="400"/>
+  </div>
+  
 Android Developer
 ----------------
 
