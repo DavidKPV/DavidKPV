@@ -1,6 +1,10 @@
 Hi my name is David Martinez ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="200"/>
+</div>
+
 Android Developer
 ----------------
 
