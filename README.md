@@ -1,19 +1,32 @@
-Hi, my name is David Martinez!
-======================================================================================================================================
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/umRsjEAJG14AAAAd/line-neon.gif" width="1500"/>
+</div>
+<div id="header" align="center">
+  <H1>Hi, my name is David Martinez!</H1>
+</div>
 
-  <div id="header" align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tpbmk2ZGEzdzlsdXhxZWJvZm9wZTJkdHNrZ2lpN3R2MDF1bWthYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="400"/>
-  </div>
-  
-Android Developer
-----------------
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tpbmk2ZGEzdzlsdXhxZWJvZm9wZTJkdHNrZ2lpN3R2MDF1bWthYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="500"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/umRsjEAJG14AAAAd/line-neon.gif" width="1500"/>
+</div>
+<div id="header" align="center">
+  <H1>Android Developer</H1>
+</div>
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [david.mm.kpv@gmail.com](mailto:david.mm.kpv@gmail.com)
 * 🚀  I'm currently working on [Softtek](http://www.softtek.com/es/)
 * 🧠  I'm learning BE with Kotlin
 
-### Skills
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/umRsjEAJG14AAAAd/line-neon.gif" width="1500"/>
+</div>
+<div id="header" align="center">
+  <H2>Skills</H2>
+</div>
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="LinkedIn Badge"/>
@@ -58,9 +71,12 @@ Android Developer
   <img src="https://aleen42.github.io/badges/src/zeplin.svg" alt="Zeplin Badge"/>
 </div>
 
-
-### Socials
-----------------
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/umRsjEAJG14AAAAd/line-neon.gif" width="1500"/>
+</div>
+<div id="header" align="center">
+  <H2>Socials</H2>
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/david-martinez-martinez/">
@@ -68,8 +84,13 @@ Android Developer
   </a>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/umRsjEAJG14AAAAd/line-neon.gif" width="1500"/>
+</div>
+
 ### More Information
 ----------------
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKPV&theme=blue-green" alt="SonarLint Badge"/>
 
 <img src="https://komarev.com/ghpvc/?username=davidkpv&style=flat-square&color=blue" alt=""/>
