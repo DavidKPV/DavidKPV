@@ -18,7 +18,7 @@
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [david.mm.kpv@gmail.com](mailto:david.mm.kpv@gmail.com)
-* 🚀  I'm currently working on [Softtek](http://www.softtek.com/es/)
+* 🚀  I'm currently be open to new opportunities
 * 🧠  I'm learning BE with Kotlin
 
 <div id="header" align="center">
